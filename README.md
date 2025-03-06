@@ -1,4 +1,4 @@
-# HTML-Pulse-
+# HTML-Pulse
 Welcome to HTML-Pulse – A dynamic collection of HTML projects, creative layouts, and real-world designs! 
 
 This repository is a reflection of my HTML journey, where I explore and experiment with modern, responsive, and interactive web designs using pure HTML & CSS.
